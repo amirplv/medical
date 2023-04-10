@@ -1,0 +1,159 @@
+@media(max-width:400px) {
+    .hero .hero-content {
+        margin-top: 210px;
+    }
+
+    .details {
+        margin-top: 100px;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px){
+
+.hero .hero-content{
+    margin-right: 10px;
+}
+    .hero .hero-title{
+        font-size: 24px;
+    }
+    .hero .hero-paragraph{
+        font-size: 14px;
+    }
+}
+
+@media(min-width:768px) and (max-width:1200px){
+    header .nav-item{
+        margin: 7px;
+    }
+}
+
+@media(min-width:1200px) and (max-width:1400px){
+    header .nav-item{
+        margin: 15px;
+    }
+}
+
+@media(min-width:400px) and (max-width:500px) {
+    .hero .hero-content {
+        margin-top: 280px;
+    }
+
+    .details {
+        margin-top: 100px;
+    }
+}
+
+@media(min-width:500px) and (max-width:600px) {
+    .hero .hero-content {
+        margin-top: 370px;
+    }
+
+    .details {
+        margin-top: 100px;
+    }
+}
+
+@media(min-width:600px) and (max-width:700px) {
+    .hero .hero-content {
+        margin-top: 460px;
+    }
+
+    .details {
+        margin-top: 160px;
+    }
+}
+
+
+@media(min-width:700px) and (max-width:768px) {
+    .hero .hero-content {
+        margin-top: 550px;
+    }
+
+    .details {
+        margin-top: 210px;
+    }
+}
+
+@media(max-width:768px) {
+    .hero {
+        background-size: contain;
+    }
+
+    .hero .hero-content {
+        margin-inline: auto;
+        text-align: center;
+    }
+
+    .hero .hero-title {
+        font-size: 28px;
+        color: #595959;
+    }
+
+}
+
+@media(min-width:992px) and (max-width:1200px){
+    .hero .hero-content{
+        margin-right: 20px;
+    }
+    .hero .hero-content .hero-title{
+        font-size: 38px;
+    }
+}
+
+
+@media(min-width:1200px){
+    .hero .hero-content{
+        margin-right: 80px;
+    }
+}
+
+@media(max-width:1200px) {
+
+    .hero .hero-paragraph {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .hero .turn-btn,
+    .hero .emergency-btn {
+        margin-right: 10px;
+    }
+
+    .hero .emergency-btn {
+        background-color: #EF4949;
+        color: #fff;
+    }
+}
+
+@media(max-width:768px) {
+
+    .about-us .about-us-img img {
+        width: 280px;
+    }
+}
+
+@media(min-width:768px) and (max-width:992px) {
+    .about-us .about-us-img img {
+        width: 490px;
+    }
+}
+
+@media(min-width:992px) {
+    .about-us .about-us-img img {
+        width: 450px;
+    }
+}
+
+@media(max-width:768px) {
+    .results {
+        margin-top: 110px;
+    }
+
+    .medical-advice .advice-bg {
+        margin: 0;
+    }
+
+    .medical-advice .advice-desc p {
+        padding: 20px;
+    }
+}
